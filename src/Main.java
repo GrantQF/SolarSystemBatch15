@@ -8,7 +8,7 @@ public class Main {
 
         featureSun fSun=new featureSun();
         fSun.temp="123123123k";
-        fSun.radius=123123123l;
+        fSun.radius="123123123l";
         fSun.color="pink";
 
     }
